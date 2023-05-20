@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+    align-items: center;
+}
+#shoe-img{
+    align-items: center;
+}
+button
+{
+    padding: 15px;
+    background-color: white;
+    border-radius: 15px;
+    position: relative;
+    top: 20px;
+    cursor: pointer;
+}
+
